@@ -1,11 +1,10 @@
 # sobre mim
-## editando perfil
-### teste
 
-- Olá meu nome é Lucas
+- Olá meu nome é **Lucas**
 - Meu email de contato é lucasgabrielbiudeoliveira@gmail.com
 - Estou interessado em aprender a programar novas linguagens 
 - Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
+
 
 
 <!---
